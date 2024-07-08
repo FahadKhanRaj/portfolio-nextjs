@@ -75,7 +75,7 @@ const EmailSection = () => {
   </svg>
   <span class="sr-only">Info</span>
   <div>
-    <span class="font-medium">LinkedIn Profile: </span> ... <a href="#" className="click-here-link"><b>Click Here</b></a>
+    <span class="font-medium">LinkedIn Profile: </span> ... <a href="#" className="https://www.linkedin.com/in/fahad-khan-raj/"><b>Click Here</b></a>
 
   </div>
 </div>
@@ -85,7 +85,7 @@ const EmailSection = () => {
   </svg>
   <span class="sr-only">Info</span>
   <div>
-    <span class="font-medium">GitHub Profile</span> ... <a href="#" className="click-here-link"><b>Click Here</b></a>
+    <span class="font-medium">GitHub Profile</span> ... <a href="#" className="https://github.com/FahadKhanRaj/"><b>Click Here</b></a>
   </div>
 </div>
 <div class="flex items-center p-4 mb-4 text-sm text-green-800 border border-green-300 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400 dark:border-green-800" role="alert">

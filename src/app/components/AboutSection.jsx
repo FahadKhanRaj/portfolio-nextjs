@@ -10,7 +10,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Python</li>
-        <li>JavScript</li>
+        <li>JavaScript</li>
         <li>React</li>
         <li>Node.js</li>
         <li>Express.js</li>
@@ -19,6 +19,8 @@ const TAB_DATA = [
         <li>CSS</li>
         <li>Bootstrap & Tailwind</li>
         <li>HTML5</li>
+        <li>PHP Laravel</li>
+        <li>Java</li>
         <li>Photoshop</li>
         <li>After Effects</li>
         <li>Illustrator</li>
